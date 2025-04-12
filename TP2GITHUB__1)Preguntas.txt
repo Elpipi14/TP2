@@ -4,9 +4,6 @@
     Es una plataforma en la nube que permite a los desarrolladores 
     crear, almacenar, administrar y compartir código. 
     Utiliza el sistema de control de versiones Git. 
-    o por terminal con los siguiente comandos:
-    mkdir nombre-del-repo
-    cd nombre-del-repo  
 
 # • ¿Cómo crear un repositorio en GitHub?
     Ir a https://github.com
